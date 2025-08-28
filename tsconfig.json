@@ -14,7 +14,7 @@
     ]
   },
   "include": [
-    "./src/crypto-pro.ts"
+    "./src/ppdp-crypto-pro.ts"
   ],
   "exclude": [
     "node_modules"
