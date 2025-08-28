@@ -1,6 +1,6 @@
 {
   "name": "ppdp-crypto-pro",
-  "version": "2.5.2",
+  "version": "2.5.3",
   "description": "API для взаимодействия с КриптоПро",
   "main": "./lib/ppdp-crypto-pro.js",
   "types": "./lib/ppdp-crypto-pro.d.ts",
